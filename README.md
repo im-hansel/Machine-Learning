@@ -13,19 +13,25 @@
 * Overall, this repository provides a comprehensive analysis of the insurance dataset using a variety of data science techniques. The code and data in this repository can be used as a reference for similar analysis projects, and can be extended to include additional techniques and models.
 
 ## Directory Structure
-├── Exploratory_data_analysis
-│   ├── eda.ipynb
-│   ├── eda.py
-│   └── insurance.csv
-├── Linear_regression
-│   ├── linear_regression.ipynb
-│   ├── linear_regression.py
-│   └── insurance.csv
-├── EDA_and_Logistic_regression
-│   ├── eda_and_logistic_regression.ipynb
-│   ├── eda_and_logistic_regression.py
-│   └── insurance.csv
-└── README.md
+  *Exploratory_data_analysis
+  *eda.ipynb
+  *eda.py
+  *insurance.csv
+
+*Linear_regression
+  *linear_regression.ipynb
+  *linear_regression.py
+  *insurance.csv
+
+*EDA_and_Logistic_regression
+  *eda_and_logistic_regression.ipynb
+  *eda_and_logistic_regression.py
+  *insurance.csv
+  
+  * RANDOM_FORESTS_AND_HETEROGENEOUS_ENSEMBLES
+    *Ensemble
+    *Random_forest
+  
 
 ## Installation
 * Clone the repository: git clone https://github.com/[https://github.com/im-hansel/Machine-Learning].git
